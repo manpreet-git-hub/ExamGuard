@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+opencv-python>=4.9.0
+mediapipe>=0.10.9
+ultralytics>=8.2.0     # provides YOLOv8x — auto-downloads weights on first run
+numpy>=1.24.0
+pandas
